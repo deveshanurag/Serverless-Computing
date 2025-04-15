@@ -189,7 +189,7 @@ Enable CORS on both Lambda responses:
 
 ## 📷 Screenshots
 
-> _(Add UI screenshots of home page, add student form, student list etc.)_
+![Home](https://github.com/deveshanurag/Serverless-Computing/blob/main/home.png)
 
 ---
 
